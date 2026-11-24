@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>franki</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261124130957P9Z70N</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261124130957VYWKFQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Problemas de selectividad</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Probabilidad y Estadística</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Luis Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>franki</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1795522440838</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mwum005d-5440c2e6p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2025</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2025</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2025</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwum005d-5440c2e6p</odePageId>
+      <odeBlockId>block-mwum1j00-99v3i2iih</odeBlockId>
+      <blockName>Junio. Ejercicio 7</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value>ejercicio-custom-verde</value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwum005d-5440c2e6p</odePageId>
+          <odeBlockId>block-mwum1j00-99v3i2iih</odeBlockId>
+          <odeIdeviceId>idevice-1795519652975-qvqr0ofbx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><div style="background-color: #f1f8f3; border-left: 5px solid #2e7d32; border-radius: 0 6px 6px 0; padding: 16px 20px; margin: 10px 0; line-height: 1.6; color: #222222;">
+<p style="margin-top: 0;">En la tabla siguiente se recoge el número de coches y motos que se presentaron a la ITV en el año 2023.</p>
+<table style="width: 100%; max-width: 380px; margin: 12px auto; border-collapse: collapse; text-align: center; background-color: #ffffff; font-size: 0.95em;">
+<thead>
+<tr style="background-color: #e8f5e9; color: #1b5e20;">
+<th style="border: 1px solid #c8e6c9; padding: 8px;"></th>
+<th style="border: 1px solid #c8e6c9; padding: 8px;">Coches</th>
+<th style="border: 1px solid #c8e6c9; padding: 8px;">Motos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;">Aptos</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">116.383</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">160.667</td>
+</tr>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;">No Aptos</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">2.679</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">3.447</td>
+</tr>
+</tbody>
+</table>
+<p>Se elige un vehículo al azar de entre los coches y motos que se presentaron a dicha inspección.</p>
+<p style="margin-bottom: 6px;"><strong>a)</strong> ¿Cuál es la probabilidad de que el vehículo elegido sea una moto o haya resultado apto?</p>
+<p style="margin-bottom: 0;"><strong>b)</strong> Si el vehículo elegido es un coche, ¿cuál es la probabilidad de que haya resultado no apto?</p>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div style="line-height: 1.6; color: #333333;">
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;">Paso previo: tabla de contingencia completa</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;">Definimos los sucesos \(C = \text{«ser coche»}\), \(M = \text{«ser moto»}\), \(A = \text{«resultar apto»}\) y \(\overline{A} = \text{«resultar no apto»}\). Añadimos los totales por filas y columnas:</p>
+<table style="width: 100%; max-width: 460px; margin: 12px auto 6px auto; border-collapse: collapse; text-align: center; font-size: 0.95em;">
+<thead>
+<tr style="background-color: #e8f5e9; color: #1b5e20;">
+<th style="border: 1px solid #c8e6c9; padding: 8px;"></th>
+<th style="border: 1px solid #c8e6c9; padding: 8px;">Coches \(\boldsymbol{(C)}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 8px;">Motos \(\boldsymbol{(M)}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 8px;">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;">Aptos \(\boldsymbol{(A)}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">116.383</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">160.667</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;">277.050</td>
+</tr>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;">No Aptos \(\boldsymbol{(\overline{A})}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">2.679</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">3.447</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;">6.126</td>
+</tr>
+<tr style="background-color: #f1f8f3;">
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;">Total</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;">119.062</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;">164.114</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;">283.176</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;">a) Probabilidad de que sea moto o haya resultado apto: \(P(M \cup A)\)</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;">Como ambos sucesos son compatibles (existen motos aptas), aplicamos la fórmula de la unión para no contar dos veces la intersección:</p>
+<p style="text-align: center;">\[P(M \cup A) = P(M) + P(A) - P(M \cap A) = \frac{164.114}{283.176} + \frac{277.050}{283.176} - \frac{160.667}{283.176} = \frac{280.497}{283.176} \approx 0{,}9905\]</p>
+<p style="margin-bottom: 0; font-size: 0.94em; color: #555555;"><em>Comprobación rápida por el suceso contrario:</em> el único caso que no cumple «ser moto o ser apto» es «ser coche y no apto», luego \(P(M \cup A) = 1 - P(C \cap \overline{A}) = 1 - \dfrac{2.679}{283.176} = \dfrac{280.497}{283.176} \approx 0{,}9905\).</p>
+</div>
+<div style="background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;"><strong>Conclusión apartado a):</strong> La probabilidad pedida es <strong>\(\boldsymbol{0{,}9905}\)</strong> (un \(99{,}05\%\)).</div>
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;">b) Probabilidad de que sea no apto sabiendo que es coche: \(P(\overline{A} \mid C)\)</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;">Al saber que el vehículo elegido es un coche, restringimos el espacio muestral a la columna de los \(119.062\) coches (o aplicamos directamente la definición de probabilidad condicionada):</p>
+<p style="text-align: center; margin-bottom: 0;">\[P(\overline{A} \mid C) = \frac{P(\overline{A} \cap C)}{P(C)} = \frac{2.679 / 283.176}{119.062 / 283.176} = \frac{2.679}{119.062} \approx 0{,}0225\]</p>
+</div>
+<div style="background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;"><strong>Conclusión apartado b):</strong> La probabilidad de que un coche resulte no apto es <strong>\(\boldsymbol{0{,}0225}\)</strong> (un \(2{,}25\%\)).</div>
+</div>
+<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href="{{context_path}}/content/resources/pdf/MII-T7-2025.pdf" title="MII-T7-2025.pdf" target="_blank" rel="noopener"><img src="{{context_path}}/content/resources/emestrada_corto.png" width="63" height="59" alt="" /></a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795519652975-qvqr0ofbx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><div style=\"background-color: #f1f8f3; border-left: 5px solid #2e7d32; border-radius: 0 6px 6px 0; padding: 16px 20px; margin: 10px 0; line-height: 1.6; color: #222222;\">\n<p style=\"margin-top: 0;\">En la tabla siguiente se recoge el número de coches y motos que se presentaron a la ITV en el año 2023.</p>\n<table style=\"width: 100%; max-width: 380px; margin: 12px auto; border-collapse: collapse; text-align: center; background-color: #ffffff; font-size: 0.95em;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\"></th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Coches</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Motos</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;\">Aptos</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">116.383</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">160.667</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;\">No Aptos</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">2.679</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">3.447</td>\n</tr>\n</tbody>\n</table>\n<p>Se elige un vehículo al azar de entre los coches y motos que se presentaron a dicha inspección.</p>\n<p style=\"margin-bottom: 6px;\"><strong>a)</strong> ¿Cuál es la probabilidad de que el vehículo elegido sea una moto o haya resultado apto?</p>\n<p style=\"margin-bottom: 0;\"><strong>b)</strong> Si el vehículo elegido es un coche, ¿cuál es la probabilidad de que haya resultado no apto?</p>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div style=\"line-height: 1.6; color: #333333;\">\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;\">Paso previo: tabla de contingencia completa</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Definimos los sucesos \\(C = \\text{«ser coche»}\\), \\(M = \\text{«ser moto»}\\), \\(A = \\text{«resultar apto»}\\) y \\(\\overline{A} = \\text{«resultar no apto»}\\). Añadimos los totales por filas y columnas:</p>\n<table style=\"width: 100%; max-width: 460px; margin: 12px auto 6px auto; border-collapse: collapse; text-align: center; font-size: 0.95em;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\"></th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Coches \\(\\boldsymbol{(C)}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Motos \\(\\boldsymbol{(M)}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;\">Aptos \\(\\boldsymbol{(A)}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">116.383</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">160.667</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;\">277.050</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;\">No Aptos \\(\\boldsymbol{(\\overline{A})}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">2.679</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">3.447</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;\">6.126</td>\n</tr>\n<tr style=\"background-color: #f1f8f3;\">\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">Total</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">119.062</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">164.114</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">283.176</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">a) Probabilidad de que sea moto o haya resultado apto: \\(P(M \\cup A)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Como ambos sucesos son compatibles (existen motos aptas), aplicamos la fórmula de la unión para no contar dos veces la intersección:</p>\n<p style=\"text-align: center;\">\\[P(M \\cup A) = P(M) + P(A) - P(M \\cap A) = \\frac{164.114}{283.176} + \\frac{277.050}{283.176} - \\frac{160.667}{283.176} = \\frac{280.497}{283.176} \\approx 0{,}9905\\]</p>\n<p style=\"margin-bottom: 0; font-size: 0.94em; color: #555555;\"><em>Comprobación rápida por el suceso contrario:</em> el único caso que no cumple «ser moto o ser apto» es «ser coche y no apto», luego \\(P(M \\cup A) = 1 - P(C \\cap \\overline{A}) = 1 - \\dfrac{2.679}{283.176} = \\dfrac{280.497}{283.176} \\approx 0{,}9905\\).</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado a):</strong> La probabilidad pedida es <strong>\\(\\boldsymbol{0{,}9905}\\)</strong> (un \\(99{,}05\\%\\)).</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">b) Probabilidad de que sea no apto sabiendo que es coche: \\(P(\\overline{A} \\mid C)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Al saber que el vehículo elegido es un coche, restringimos el espacio muestral a la columna de los \\(119.062\\) coches (o aplicamos directamente la definición de probabilidad condicionada):</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[P(\\overline{A} \\mid C) = \\frac{P(\\overline{A} \\cap C)}{P(C)} = \\frac{2.679 / 283.176}{119.062 / 283.176} = \\frac{2.679}{119.062} \\approx 0{,}0225\\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado b):</strong> La probabilidad de que un coche resulte no apto es <strong>\\(\\boldsymbol{0{,}0225}\\)</strong> (un \\(2{,}25\\%\\)).</div>\n</div>\n<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href=\"{{context_path}}/content/resources/pdf/MII-T7-2025.pdf\" title=\"MII-T7-2025.pdf\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/emestrada_corto.png\" width=\"63\" height=\"59\" alt=\"\" /></a></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<div style=\"line-height: 1.6; color: #333333;\">\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;\">Paso previo: tabla de contingencia completa</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Definimos los sucesos \\(C = \\text{«ser coche»}\\), \\(M = \\text{«ser moto»}\\), \\(A = \\text{«resultar apto»}\\) y \\(\\overline{A} = \\text{«resultar no apto»}\\). Añadimos los totales por filas y columnas:</p>\n<table style=\"width: 100%; max-width: 460px; margin: 12px auto 6px auto; border-collapse: collapse; text-align: center; font-size: 0.95em;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\"></th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Coches \\(\\boldsymbol{(C)}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Motos \\(\\boldsymbol{(M)}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;\">Aptos \\(\\boldsymbol{(A)}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">116.383</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">160.667</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;\">277.050</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; background-color: #f9fbf9;\">No Aptos \\(\\boldsymbol{(\\overline{A})}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">2.679</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">3.447</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;\">6.126</td>\n</tr>\n<tr style=\"background-color: #f1f8f3;\">\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">Total</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">119.062</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">164.114</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">283.176</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">a) Probabilidad de que sea moto o haya resultado apto: \\(P(M \\cup A)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Como ambos sucesos son compatibles (existen motos aptas), aplicamos la fórmula de la unión para no contar dos veces la intersección:</p>\n<p style=\"text-align: center;\">\\[P(M \\cup A) = P(M) + P(A) - P(M \\cap A) = \\frac{164.114}{283.176} + \\frac{277.050}{283.176} - \\frac{160.667}{283.176} = \\frac{280.497}{283.176} \\approx 0{,}9905\\]</p>\n<p style=\"margin-bottom: 0; font-size: 0.94em; color: #555555;\"><em>Comprobación rápida por el suceso contrario:</em> el único caso que no cumple «ser moto o ser apto» es «ser coche y no apto», luego \\(P(M \\cup A) = 1 - P(C \\cap \\overline{A}) = 1 - \\dfrac{2.679}{283.176} = \\dfrac{280.497}{283.176} \\approx 0{,}9905\\).</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado a):</strong> La probabilidad pedida es <strong>\\(\\boldsymbol{0{,}9905}\\)</strong> (un \\(99{,}05\\%\\)).</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">b) Probabilidad de que sea no apto sabiendo que es coche: \\(P(\\overline{A} \\mid C)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Al saber que el vehículo elegido es un coche, restringimos el espacio muestral a la columna de los \\(119.062\\) coches (o aplicamos directamente la definición de probabilidad condicionada):</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[P(\\overline{A} \\mid C) = \\frac{P(\\overline{A} \\cap C)}{P(C)} = \\frac{2.679 / 283.176}{119.062 / 283.176} = \\frac{2.679}{119.062} \\approx 0{,}0225\\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado b):</strong> La probabilidad de que un coche resulte no apto es <strong>\\(\\boldsymbol{0{,}0225}\\)</strong> (un \\(2{,}25\\%\\)).</div>\n</div>\n<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href=\"{{context_path}}/content/resources/pdf/MII-T7-2025.pdf\" title=\"MII-T7-2025.pdf\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/emestrada_corto.png\" width=\"63\" height=\"59\" alt=\"\" /></a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwum005d-5440c2e6p</odePageId>
+      <odeBlockId>block-mwum49yl-bi4q0h0a0</odeBlockId>
+      <blockName>Julio. Ejercicio 7</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value>ejercicio-custom-verde</value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwum005d-5440c2e6p</odePageId>
+          <odeBlockId>block-mwum49yl-bi4q0h0a0</odeBlockId>
+          <odeIdeviceId>idevice-1795519781228-t70u5lcvo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><div style="background-color: #f1f8f3; border-left: 5px solid #2e7d32; border-radius: 0 6px 6px 0; padding: 16px 20px; margin: 10px 0; line-height: 1.6; color: #222222;">
+<p style="margin-top: 0;">La velocidad máxima a la que puede circular un vehículo sobre un determinado puente del río Guadalete es de \(70\text{ km/h}\).</p>
+<p style="margin-bottom: 6px;"><strong>a)</strong> En uno de los sentidos de circulación, la velocidad de los vehículos sigue una distribución normal de media \(64\text{ km/h}\) y desviación típica \(4\text{ km/h}\). Si el radar de control salta a partir de \(72\text{ km/h}\), ¿cuál es el porcentaje de vehículos que se sancionan?</p>
+<p style="margin-bottom: 0;"><strong>b)</strong> En el sentido contrario, también sigue una distribución normal de la que sabemos que la velocidad media es de \(63{,}6\text{ km/h}\) y que el \(5{,}05\%\) de todos los vehículos viaja a más de \(80\text{ km/h}\). En este caso, ¿cuánto vale la desviación típica?</p>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div style="line-height: 1.6; color: #333333;">
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;">a) Porcentaje de vehículos sancionados (\(\ge 72\text{ km/h}\)) para \(X \sim N(64,\, 4)\)</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;">Tipificamos la variable \(X \sim N(64,\, 4)\) mediante \(Z = \dfrac{X - \mu}{\sigma} = \dfrac{X - 64}{4} \sim N(0,\, 1)\) para consultar la tabla de la normal estándar:</p>
+<p style="text-align: center;">\[ P(X \ge 72) = P\!\left(Z \ge \frac{72 - 64}{4}\right) = P(Z \ge 2) \]</p>
+<p style="margin-bottom: 10px;">Pasamos a la cola izquierda usando el suceso complementario y buscamos \(z = 2{,}00\) (fila \(2{,}0\), columna \(0{,}00\)) en la tabla de \(N(0,\, 1)\):</p>
+<div style="max-width: 390px; margin: 10px auto; border: 1px dashed #81c784; border-radius: 6px; padding: 10px 12px; background-color: #fafdfa;">
+<table style="width: 100%; border-collapse: collapse; text-align: center; font-size: 0.92em; background-color: #ffffff;">
+<thead>
+<tr style="background-color: #e8f5e9; color: #1b5e20;">
+<th style="border: 1px solid #c8e6c9; padding: 6px;">\(\boldsymbol{z}\)</th>
+<th style="border: 1px solid #2e7d32; padding: 6px; background-color: #c8e6c9; color: #1b5e20; font-weight: bold;">\(\boldsymbol{0{,}00}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 6px;">\(\boldsymbol{0{,}01}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 6px;">\(\boldsymbol{0{,}02}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 6px; color: #78909c;">\(\boldsymbol{\cdots}\)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;">\(\boldsymbol{1{,}9}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;">\(0{,}9713\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #666666;">\(0{,}9719\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #666666;">\(0{,}9726\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;">\(\cdots\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #2e7d32; padding: 6px; font-weight: bold; background-color: #c8e6c9; color: #1b5e20;">\(\boldsymbol{2{,}0}\)</td>
+<td style="border: 2px solid #d84315; padding: 6px; background-color: #fff3e0; color: #d84315; font-weight: bold;">\(\boldsymbol{0{,}9772}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;">\(0{,}9778\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;">\(0{,}9783\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;">\(\cdots\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;">\(\boldsymbol{2{,}1}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;">\(0{,}9821\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #666666;">\(0{,}9826\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #666666;">\(0{,}9830\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;">\(\cdots\)</td>
+</tr>
+</tbody>
+</table>
+<p style="margin: 8px 0 0 0; text-align: center; font-size: 0.88em; color: #1b5e20;">Fila <strong>\(\boldsymbol{2{,}0}\)</strong> \(+\) Columna <strong>\(\boldsymbol{0{,}00}\)</strong> \(\implies\) <strong>\(\boldsymbol{P(Z \le 2) = 0{,}9772}\)</strong></p>
+</div>
+<p style="text-align: center; margin-top: 12px; margin-bottom: 0;">\[ P(Z \ge 2) = 1 - P(Z \le 2) = 1 - 0{,}9772 = 0{,}0228 \implies 2{,}28\% \]</p>
+</div>
+<div style="text-align: center; margin: 16px 0;"><svg viewbox="0 0 420 185" style="max-width: 420px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;"> <defs> <lineargradient id="tailP25_2a" x1="0" y1="0" x2="0" y2="1"> <stop offset="0%" stop-color="#2e7d32" stop-opacity="0.55"></stop> <stop offset="100%" stop-color="#81c784" stop-opacity="0.25"></stop> </lineargradient> </defs> <!-- Eje horizontal --> <line x1="25" y1="145" x2="395" y2="145" stroke="#455a64" stroke-width="1.4"></line> <!-- Eje de simetría z = 0 --> <line x1="210" y1="25" x2="210" y2="145" stroke="#90a4ae" stroke-width="1.1" stroke-dasharray="4,3"></line> <!-- Cola sombreada z >= 2 --> <path d="M 306,145 L 306,129.6 C 325,138 348,143.5 385,145 Z" fill="url(#tailP25_2a)"></path> <!-- Campana de Gauss N(0,1) --> <path d="M 35,144.8 C 75,144.2 100,139 114,129.6 C 140,111 162,32 210,32 C 258,32 280,111 306,129.6 C 320,139 345,144.2 385,144.8" fill="none" stroke="#2e7d32" stroke-width="2.5"></path> <!-- Línea vertical en z = 2 --> <line x1="306" y1="129.6" x2="306" y2="145" stroke="#1b5e20" stroke-width="1.6"></line> <!-- Etiquetas --> <text x="210" y="162" font-size="11" fill="#455a64" text-anchor="middle">z = 0 (x = 64)</text> <text x="306" y="162" font-size="11" font-weight="bold" fill="#1b5e20" text-anchor="middle">z = 2 (x = 72)</text> <text x="342" y="102" font-size="11.5" font-weight="bold" fill="#1b5e20" text-anchor="middle">0,0228 (2,28%)</text> <line x1="336" y1="108" x2="320" y2="136" stroke="#1b5e20" stroke-width="1.1"></line> <text x="210" y="20" font-size="11.5" font-weight="bold" fill="#2e7d32" text-anchor="middle">N(0, 1)</text> </svg></div>
+<div style="background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;"><strong>Conclusión apartado a):</strong> Se sancionan el <strong>\(\boldsymbol{2{,}28\%}\)</strong> de los vehículos.</div>
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;">b) Cálculo de la desviación típica \(\sigma\) para \(X \sim N(63{,}6,\, \sigma)\)</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;"><strong>1. Tipificamos y expresamos la condición como cola izquierda</strong></p>
+<p style="text-align: center;">\[ P(X &gt; 80) = 0{,}0505 \implies P\!\left(Z &gt; \frac{80 - 63{,}6}{\sigma}\right) = 0{,}0505 \implies P\!\left(Z &gt; \frac{16{,}4}{\sigma}\right) = 0{,}0505 \]</p>
+<p style="text-align: center; margin-bottom: 0;">\[ 1 - P\!\left(Z \le \frac{16{,}4}{\sigma}\right) = 0{,}0505 \implies P\!\left(Z \le \frac{16{,}4}{\sigma}\right) = 1 - 0{,}0505 = 0{,}9495 \]</p>
+</div>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;"><strong>2. Localizamos \(\boldsymbol{0{,}9495}\) en el interior de la tabla de \(\boldsymbol{N(0,\, 1)}\)</strong></p>
+<p style="margin-bottom: 10px;">Buscamos la probabilidad \(0{,}9495\) en el cuerpo de la tabla y leemos su fila (\(1{,}6\)) y su columna (\(0{,}04\)):</p>
+<div style="max-width: 390px; margin: 10px auto; border: 1px dashed #81c784; border-radius: 6px; padding: 10px 12px; background-color: #fafdfa;">
+<table style="width: 100%; border-collapse: collapse; text-align: center; font-size: 0.92em; background-color: #ffffff;">
+<thead>
+<tr style="background-color: #e8f5e9; color: #1b5e20;">
+<th style="border: 1px solid #c8e6c9; padding: 6px;">\(\boldsymbol{z}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 6px; color: #78909c;">\(\boldsymbol{\cdots}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 6px;">\(\boldsymbol{0{,}03}\)</th>
+<th style="border: 1px solid #2e7d32; padding: 6px; background-color: #c8e6c9; color: #1b5e20; font-weight: bold;">\(\boldsymbol{0{,}04}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 6px;">\(\boldsymbol{0{,}05}\)</th>
+<th style="border: 1px solid #c8e6c9; padding: 6px; color: #78909c;">\(\boldsymbol{\cdots}\)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;">\(\boldsymbol{1{,}5}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;">\(\cdots\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #666666;">\(0{,}9370\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;">\(0{,}9382\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #666666;">\(0{,}9394\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;">\(\cdots\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #2e7d32; padding: 6px; font-weight: bold; background-color: #c8e6c9; color: #1b5e20;">\(\boldsymbol{1{,}6}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;">\(\cdots\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;">\(0{,}9484\)</td>
+<td style="border: 2px solid #d84315; padding: 6px; background-color: #fff3e0; color: #d84315; font-weight: bold;">\(\boldsymbol{0{,}9495}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;">\(0{,}9505\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;">\(\cdots\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;">\(\boldsymbol{1{,}7}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;">\(\cdots\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #666666;">\(0{,}9582\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;">\(0{,}9591\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #666666;">\(0{,}9599\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;">\(\cdots\)</td>
+</tr>
+</tbody>
+</table>
+<p style="margin: 8px 0 0 0; text-align: center; font-size: 0.88em; color: #1b5e20;">Fila <strong>\(\boldsymbol{1{,}6}\)</strong> \(+\) Columna <strong>\(\boldsymbol{0{,}04}\)</strong> \(\implies\) <strong>\(\boldsymbol{z = 1{,}64}\)</strong></p>
+</div>
+<p style="margin-top: 12px;">Igualamos el valor tipificado a \(1{,}64\) y despejamos \(\sigma\):</p>
+<p style="text-align: center; margin-bottom: 0;">\[ \frac{16{,}4}{\sigma} = 1{,}64 \implies \sigma = \frac{16{,}4}{1{,}64} = 10\text{ km/h} \]</p>
+</div>
+<div style="background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;"><strong>Conclusión apartado b):</strong> La desviación típica es <strong>\(\boldsymbol{\sigma = 10\text{ km/h}}\)</strong>.</div>
+</div>
+<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href="{{context_path}}/content/resources/pdf/MII-T6-2025.pdf" title="MII-T6-2025.pdf" target="_blank" rel="noopener"><img src="{{context_path}}/content/resources/emestrada_corto.png" width="63" height="59" alt="" /></a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795519781228-t70u5lcvo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><div style=\"background-color: #f1f8f3; border-left: 5px solid #2e7d32; border-radius: 0 6px 6px 0; padding: 16px 20px; margin: 10px 0; line-height: 1.6; color: #222222;\">\n<p style=\"margin-top: 0;\">La velocidad máxima a la que puede circular un vehículo sobre un determinado puente del río Guadalete es de \\(70\\text{ km/h}\\).</p>\n<p style=\"margin-bottom: 6px;\"><strong>a)</strong> En uno de los sentidos de circulación, la velocidad de los vehículos sigue una distribución normal de media \\(64\\text{ km/h}\\) y desviación típica \\(4\\text{ km/h}\\). Si el radar de control salta a partir de \\(72\\text{ km/h}\\), ¿cuál es el porcentaje de vehículos que se sancionan?</p>\n<p style=\"margin-bottom: 0;\"><strong>b)</strong> En el sentido contrario, también sigue una distribución normal de la que sabemos que la velocidad media es de \\(63{,}6\\text{ km/h}\\) y que el \\(5{,}05\\%\\) de todos los vehículos viaja a más de \\(80\\text{ km/h}\\). En este caso, ¿cuánto vale la desviación típica?</p>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div style=\"line-height: 1.6; color: #333333;\">\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;\">a) Porcentaje de vehículos sancionados (\\(\\ge 72\\text{ km/h}\\)) para \\(X \\sim N(64,\\, 4)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Tipificamos la variable \\(X \\sim N(64,\\, 4)\\) mediante \\(Z = \\dfrac{X - \\mu}{\\sigma} = \\dfrac{X - 64}{4} \\sim N(0,\\, 1)\\) para consultar la tabla de la normal estándar:</p>\n<p style=\"text-align: center;\">\\[ P(X \\ge 72) = P\\!\\left(Z \\ge \\frac{72 - 64}{4}\\right) = P(Z \\ge 2) \\]</p>\n<p style=\"margin-bottom: 10px;\">Pasamos a la cola izquierda usando el suceso complementario y buscamos \\(z = 2{,}00\\) (fila \\(2{,}0\\), columna \\(0{,}00\\)) en la tabla de \\(N(0,\\, 1)\\):</p>\n<div style=\"max-width: 390px; margin: 10px auto; border: 1px dashed #81c784; border-radius: 6px; padding: 10px 12px; background-color: #fafdfa;\">\n<table style=\"width: 100%; border-collapse: collapse; text-align: center; font-size: 0.92em; background-color: #ffffff;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{z}\\)</th>\n<th style=\"border: 1px solid #2e7d32; padding: 6px; background-color: #c8e6c9; color: #1b5e20; font-weight: bold;\">\\(\\boldsymbol{0{,}00}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{0{,}01}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{0{,}02}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px; color: #78909c;\">\\(\\boldsymbol{\\cdots}\\)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;\">\\(\\boldsymbol{1{,}9}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9713\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9719\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9726\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #2e7d32; padding: 6px; font-weight: bold; background-color: #c8e6c9; color: #1b5e20;\">\\(\\boldsymbol{2{,}0}\\)</td>\n<td style=\"border: 2px solid #d84315; padding: 6px; background-color: #fff3e0; color: #d84315; font-weight: bold;\">\\(\\boldsymbol{0{,}9772}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9778\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9783\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;\">\\(\\boldsymbol{2{,}1}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9821\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9826\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9830\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin: 8px 0 0 0; text-align: center; font-size: 0.88em; color: #1b5e20;\">Fila <strong>\\(\\boldsymbol{2{,}0}\\)</strong> \\(+\\) Columna <strong>\\(\\boldsymbol{0{,}00}\\)</strong> \\(\\implies\\) <strong>\\(\\boldsymbol{P(Z \\le 2) = 0{,}9772}\\)</strong></p>\n</div>\n<p style=\"text-align: center; margin-top: 12px; margin-bottom: 0;\">\\[ P(Z \\ge 2) = 1 - P(Z \\le 2) = 1 - 0{,}9772 = 0{,}0228 \\implies 2{,}28\\% \\]</p>\n</div>\n<div style=\"text-align: center; margin: 16px 0;\"><svg viewbox=\"0 0 420 185\" style=\"max-width: 420px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;\"> <defs> <lineargradient id=\"tailP25_2a\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"> <stop offset=\"0%\" stop-color=\"#2e7d32\" stop-opacity=\"0.55\"></stop> <stop offset=\"100%\" stop-color=\"#81c784\" stop-opacity=\"0.25\"></stop> </lineargradient> </defs> <!-- Eje horizontal --> <line x1=\"25\" y1=\"145\" x2=\"395\" y2=\"145\" stroke=\"#455a64\" stroke-width=\"1.4\"></line> <!-- Eje de simetría z = 0 --> <line x1=\"210\" y1=\"25\" x2=\"210\" y2=\"145\" stroke=\"#90a4ae\" stroke-width=\"1.1\" stroke-dasharray=\"4,3\"></line> <!-- Cola sombreada z >= 2 --> <path d=\"M 306,145 L 306,129.6 C 325,138 348,143.5 385,145 Z\" fill=\"url(#tailP25_2a)\"></path> <!-- Campana de Gauss N(0,1) --> <path d=\"M 35,144.8 C 75,144.2 100,139 114,129.6 C 140,111 162,32 210,32 C 258,32 280,111 306,129.6 C 320,139 345,144.2 385,144.8\" fill=\"none\" stroke=\"#2e7d32\" stroke-width=\"2.5\"></path> <!-- Línea vertical en z = 2 --> <line x1=\"306\" y1=\"129.6\" x2=\"306\" y2=\"145\" stroke=\"#1b5e20\" stroke-width=\"1.6\"></line> <!-- Etiquetas --> <text x=\"210\" y=\"162\" font-size=\"11\" fill=\"#455a64\" text-anchor=\"middle\">z = 0 (x = 64)</text> <text x=\"306\" y=\"162\" font-size=\"11\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">z = 2 (x = 72)</text> <text x=\"342\" y=\"102\" font-size=\"11.5\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">0,0228 (2,28%)</text> <line x1=\"336\" y1=\"108\" x2=\"320\" y2=\"136\" stroke=\"#1b5e20\" stroke-width=\"1.1\"></line> <text x=\"210\" y=\"20\" font-size=\"11.5\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">N(0, 1)</text> </svg></div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado a):</strong> Se sancionan el <strong>\\(\\boldsymbol{2{,}28\\%}\\)</strong> de los vehículos.</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">b) Cálculo de la desviación típica \\(\\sigma\\) para \\(X \\sim N(63{,}6,\\, \\sigma)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\"><strong>1. Tipificamos y expresamos la condición como cola izquierda</strong></p>\n<p style=\"text-align: center;\">\\[ P(X &gt; 80) = 0{,}0505 \\implies P\\!\\left(Z &gt; \\frac{80 - 63{,}6}{\\sigma}\\right) = 0{,}0505 \\implies P\\!\\left(Z &gt; \\frac{16{,}4}{\\sigma}\\right) = 0{,}0505 \\]</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ 1 - P\\!\\left(Z \\le \\frac{16{,}4}{\\sigma}\\right) = 0{,}0505 \\implies P\\!\\left(Z \\le \\frac{16{,}4}{\\sigma}\\right) = 1 - 0{,}0505 = 0{,}9495 \\]</p>\n</div>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\"><strong>2. Localizamos \\(\\boldsymbol{0{,}9495}\\) en el interior de la tabla de \\(\\boldsymbol{N(0,\\, 1)}\\)</strong></p>\n<p style=\"margin-bottom: 10px;\">Buscamos la probabilidad \\(0{,}9495\\) en el cuerpo de la tabla y leemos su fila (\\(1{,}6\\)) y su columna (\\(0{,}04\\)):</p>\n<div style=\"max-width: 390px; margin: 10px auto; border: 1px dashed #81c784; border-radius: 6px; padding: 10px 12px; background-color: #fafdfa;\">\n<table style=\"width: 100%; border-collapse: collapse; text-align: center; font-size: 0.92em; background-color: #ffffff;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{z}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px; color: #78909c;\">\\(\\boldsymbol{\\cdots}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{0{,}03}\\)</th>\n<th style=\"border: 1px solid #2e7d32; padding: 6px; background-color: #c8e6c9; color: #1b5e20; font-weight: bold;\">\\(\\boldsymbol{0{,}04}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{0{,}05}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px; color: #78909c;\">\\(\\boldsymbol{\\cdots}\\)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;\">\\(\\boldsymbol{1{,}5}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9370\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9382\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9394\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #2e7d32; padding: 6px; font-weight: bold; background-color: #c8e6c9; color: #1b5e20;\">\\(\\boldsymbol{1{,}6}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;\">\\(\\cdots\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9484\\)</td>\n<td style=\"border: 2px solid #d84315; padding: 6px; background-color: #fff3e0; color: #d84315; font-weight: bold;\">\\(\\boldsymbol{0{,}9495}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9505\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;\">\\(\\boldsymbol{1{,}7}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9582\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9591\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9599\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin: 8px 0 0 0; text-align: center; font-size: 0.88em; color: #1b5e20;\">Fila <strong>\\(\\boldsymbol{1{,}6}\\)</strong> \\(+\\) Columna <strong>\\(\\boldsymbol{0{,}04}\\)</strong> \\(\\implies\\) <strong>\\(\\boldsymbol{z = 1{,}64}\\)</strong></p>\n</div>\n<p style=\"margin-top: 12px;\">Igualamos el valor tipificado a \\(1{,}64\\) y despejamos \\(\\sigma\\):</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ \\frac{16{,}4}{\\sigma} = 1{,}64 \\implies \\sigma = \\frac{16{,}4}{1{,}64} = 10\\text{ km/h} \\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado b):</strong> La desviación típica es <strong>\\(\\boldsymbol{\\sigma = 10\\text{ km/h}}\\)</strong>.</div>\n</div>\n<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href=\"{{context_path}}/content/resources/pdf/MII-T6-2025.pdf\" title=\"MII-T6-2025.pdf\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/emestrada_corto.png\" width=\"63\" height=\"59\" alt=\"\" /></a></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<div style=\"line-height: 1.6; color: #333333;\">\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;\">a) Porcentaje de vehículos sancionados (\\(\\ge 72\\text{ km/h}\\)) para \\(X \\sim N(64,\\, 4)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Tipificamos la variable \\(X \\sim N(64,\\, 4)\\) mediante \\(Z = \\dfrac{X - \\mu}{\\sigma} = \\dfrac{X - 64}{4} \\sim N(0,\\, 1)\\) para consultar la tabla de la normal estándar:</p>\n<p style=\"text-align: center;\">\\[ P(X \\ge 72) = P\\!\\left(Z \\ge \\frac{72 - 64}{4}\\right) = P(Z \\ge 2) \\]</p>\n<p style=\"margin-bottom: 10px;\">Pasamos a la cola izquierda usando el suceso complementario y buscamos \\(z = 2{,}00\\) (fila \\(2{,}0\\), columna \\(0{,}00\\)) en la tabla de \\(N(0,\\, 1)\\):</p>\n<div style=\"max-width: 390px; margin: 10px auto; border: 1px dashed #81c784; border-radius: 6px; padding: 10px 12px; background-color: #fafdfa;\">\n<table style=\"width: 100%; border-collapse: collapse; text-align: center; font-size: 0.92em; background-color: #ffffff;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{z}\\)</th>\n<th style=\"border: 1px solid #2e7d32; padding: 6px; background-color: #c8e6c9; color: #1b5e20; font-weight: bold;\">\\(\\boldsymbol{0{,}00}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{0{,}01}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{0{,}02}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px; color: #78909c;\">\\(\\boldsymbol{\\cdots}\\)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;\">\\(\\boldsymbol{1{,}9}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9713\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9719\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9726\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #2e7d32; padding: 6px; font-weight: bold; background-color: #c8e6c9; color: #1b5e20;\">\\(\\boldsymbol{2{,}0}\\)</td>\n<td style=\"border: 2px solid #d84315; padding: 6px; background-color: #fff3e0; color: #d84315; font-weight: bold;\">\\(\\boldsymbol{0{,}9772}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9778\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9783\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;\">\\(\\boldsymbol{2{,}1}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9821\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9826\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9830\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin: 8px 0 0 0; text-align: center; font-size: 0.88em; color: #1b5e20;\">Fila <strong>\\(\\boldsymbol{2{,}0}\\)</strong> \\(+\\) Columna <strong>\\(\\boldsymbol{0{,}00}\\)</strong> \\(\\implies\\) <strong>\\(\\boldsymbol{P(Z \\le 2) = 0{,}9772}\\)</strong></p>\n</div>\n<p style=\"text-align: center; margin-top: 12px; margin-bottom: 0;\">\\[ P(Z \\ge 2) = 1 - P(Z \\le 2) = 1 - 0{,}9772 = 0{,}0228 \\implies 2{,}28\\% \\]</p>\n</div>\n<div style=\"text-align: center; margin: 16px 0;\"><svg viewbox=\"0 0 420 185\" style=\"max-width: 420px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;\"> <defs> <lineargradient id=\"tailP25_2a\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"> <stop offset=\"0%\" stop-color=\"#2e7d32\" stop-opacity=\"0.55\"></stop> <stop offset=\"100%\" stop-color=\"#81c784\" stop-opacity=\"0.25\"></stop> </lineargradient> </defs> <!-- Eje horizontal --> <line x1=\"25\" y1=\"145\" x2=\"395\" y2=\"145\" stroke=\"#455a64\" stroke-width=\"1.4\"></line> <!-- Eje de simetría z = 0 --> <line x1=\"210\" y1=\"25\" x2=\"210\" y2=\"145\" stroke=\"#90a4ae\" stroke-width=\"1.1\" stroke-dasharray=\"4,3\"></line> <!-- Cola sombreada z >= 2 --> <path d=\"M 306,145 L 306,129.6 C 325,138 348,143.5 385,145 Z\" fill=\"url(#tailP25_2a)\"></path> <!-- Campana de Gauss N(0,1) --> <path d=\"M 35,144.8 C 75,144.2 100,139 114,129.6 C 140,111 162,32 210,32 C 258,32 280,111 306,129.6 C 320,139 345,144.2 385,144.8\" fill=\"none\" stroke=\"#2e7d32\" stroke-width=\"2.5\"></path> <!-- Línea vertical en z = 2 --> <line x1=\"306\" y1=\"129.6\" x2=\"306\" y2=\"145\" stroke=\"#1b5e20\" stroke-width=\"1.6\"></line> <!-- Etiquetas --> <text x=\"210\" y=\"162\" font-size=\"11\" fill=\"#455a64\" text-anchor=\"middle\">z = 0 (x = 64)</text> <text x=\"306\" y=\"162\" font-size=\"11\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">z = 2 (x = 72)</text> <text x=\"342\" y=\"102\" font-size=\"11.5\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">0,0228 (2,28%)</text> <line x1=\"336\" y1=\"108\" x2=\"320\" y2=\"136\" stroke=\"#1b5e20\" stroke-width=\"1.1\"></line> <text x=\"210\" y=\"20\" font-size=\"11.5\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">N(0, 1)</text> </svg></div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado a):</strong> Se sancionan el <strong>\\(\\boldsymbol{2{,}28\\%}\\)</strong> de los vehículos.</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">b) Cálculo de la desviación típica \\(\\sigma\\) para \\(X \\sim N(63{,}6,\\, \\sigma)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\"><strong>1. Tipificamos y expresamos la condición como cola izquierda</strong></p>\n<p style=\"text-align: center;\">\\[ P(X &gt; 80) = 0{,}0505 \\implies P\\!\\left(Z &gt; \\frac{80 - 63{,}6}{\\sigma}\\right) = 0{,}0505 \\implies P\\!\\left(Z &gt; \\frac{16{,}4}{\\sigma}\\right) = 0{,}0505 \\]</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ 1 - P\\!\\left(Z \\le \\frac{16{,}4}{\\sigma}\\right) = 0{,}0505 \\implies P\\!\\left(Z \\le \\frac{16{,}4}{\\sigma}\\right) = 1 - 0{,}0505 = 0{,}9495 \\]</p>\n</div>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\"><strong>2. Localizamos \\(\\boldsymbol{0{,}9495}\\) en el interior de la tabla de \\(\\boldsymbol{N(0,\\, 1)}\\)</strong></p>\n<p style=\"margin-bottom: 10px;\">Buscamos la probabilidad \\(0{,}9495\\) en el cuerpo de la tabla y leemos su fila (\\(1{,}6\\)) y su columna (\\(0{,}04\\)):</p>\n<div style=\"max-width: 390px; margin: 10px auto; border: 1px dashed #81c784; border-radius: 6px; padding: 10px 12px; background-color: #fafdfa;\">\n<table style=\"width: 100%; border-collapse: collapse; text-align: center; font-size: 0.92em; background-color: #ffffff;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{z}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px; color: #78909c;\">\\(\\boldsymbol{\\cdots}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{0{,}03}\\)</th>\n<th style=\"border: 1px solid #2e7d32; padding: 6px; background-color: #c8e6c9; color: #1b5e20; font-weight: bold;\">\\(\\boldsymbol{0{,}04}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px;\">\\(\\boldsymbol{0{,}05}\\)</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 6px; color: #78909c;\">\\(\\boldsymbol{\\cdots}\\)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;\">\\(\\boldsymbol{1{,}5}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9370\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9382\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9394\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #2e7d32; padding: 6px; font-weight: bold; background-color: #c8e6c9; color: #1b5e20;\">\\(\\boldsymbol{1{,}6}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;\">\\(\\cdots\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9484\\)</td>\n<td style=\"border: 2px solid #d84315; padding: 6px; background-color: #fff3e0; color: #d84315; font-weight: bold;\">\\(\\boldsymbol{0{,}9495}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9505\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; font-weight: bold; background-color: #f9fbf9;\">\\(\\boldsymbol{1{,}7}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9582\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; background-color: #f1f8f3; color: #555555;\">\\(0{,}9591\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #666666;\">\\(0{,}9599\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 6px; color: #90a4ae;\">\\(\\cdots\\)</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin: 8px 0 0 0; text-align: center; font-size: 0.88em; color: #1b5e20;\">Fila <strong>\\(\\boldsymbol{1{,}6}\\)</strong> \\(+\\) Columna <strong>\\(\\boldsymbol{0{,}04}\\)</strong> \\(\\implies\\) <strong>\\(\\boldsymbol{z = 1{,}64}\\)</strong></p>\n</div>\n<p style=\"margin-top: 12px;\">Igualamos el valor tipificado a \\(1{,}64\\) y despejamos \\(\\sigma\\):</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ \\frac{16{,}4}{\\sigma} = 1{,}64 \\implies \\sigma = \\frac{16{,}4}{1{,}64} = 10\\text{ km/h} \\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado b):</strong> La desviación típica es <strong>\\(\\boldsymbol{\\sigma = 10\\text{ km/h}}\\)</strong>.</div>\n</div>\n<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href=\"{{context_path}}/content/resources/pdf/MII-T6-2025.pdf\" title=\"MII-T6-2025.pdf\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/emestrada_corto.png\" width=\"63\" height=\"59\" alt=\"\" /></a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwum82e0-6asc5yk16</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2026</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2026</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2026</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwum82e0-6asc5yk16</odePageId>
+      <odeBlockId>block-mwum84n8-lobi2xcqg</odeBlockId>
+      <blockName>Junio. Ejercicio 4.2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value>ejercicio-custom-verde</value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwum82e0-6asc5yk16</odePageId>
+          <odeBlockId>block-mwum84n8-lobi2xcqg</odeBlockId>
+          <odeIdeviceId>idevice-1795519960963-ijla2zoe0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><div style="background-color: #f1f8f3; border-left: 5px solid #2e7d32; border-radius: 0 6px 6px 0; padding: 16px 20px; margin: 10px 0; line-height: 1.6; color: #222222;">
+<p style="margin-top: 0;">Disponemos de dos bolsas con monedas de oro y monedas de plata. En la primera hay \(2\) monedas de oro y \(3\) monedas de plata. En la segunda hay \(6\) monedas de oro y \(3\) de plata. Sin mirar, extraemos una moneda al azar de la primera bolsa y la depositamos en la segunda bolsa. Luego extraemos una moneda de la segunda bolsa.</p>
+<p style="margin-bottom: 6px;"><strong>a)</strong> Calcula la probabilidad de que la segunda moneda sea de oro, sabiendo que la moneda que se extrajo de la primera bolsa era de plata.</p>
+<p style="margin-bottom: 0;"><strong>b)</strong> Calcula la probabilidad de que la moneda que se extrajo de la primera bolsa fuera de plata, sabiendo que la segunda moneda es de oro.</p>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div style="line-height: 1.6; color: #333333;">
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;">Planteamiento y diagrama de árbol</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;">Definimos los sucesos para las dos extracciones: \(O_1, P_1\) (oro o plata en la 1.ª extracción) y \(O_2, P_2\) (oro o plata en la 2.ª extracción). Al pasar una moneda a la segunda bolsa, esta pasa de tener \(9\) monedas a tener <strong>\(\boldsymbol{10}\) monedas</strong>:</p>
+<ul style="margin-bottom: 0;">
+<li>Si la 1.ª moneda es <strong>oro</strong> (\(O_1\)), la 2.ª bolsa queda con \(7\) de oro y \(3\) de plata.</li>
+<li>Si la 1.ª moneda es <strong>plata</strong> (\(P_1\)), la 2.ª bolsa queda con \(6\) de oro y \(4\) de plata.</li>
+</ul>
+</div>
+<div style="text-align: center; margin: 16px 0;"><svg viewbox="0 0 640 310" style="max-width: 640px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;"> <defs> <marker id="arrowP26_1" viewbox="0 0 10 10" refx="8" refy="5" markerwidth="6" markerheight="6" orient="auto-start-reverse"> <path d="M 0 1 L 10 5 L 0 9 z" fill="#455a64"></path> </marker> </defs> <!-- Nodo inicial --> <rect x="16" y="117" width="112" height="76" rx="8" fill="#f1f8f3" stroke="#2e7d32" stroke-width="2"></rect> <text x="72" y="147" font-size="16" font-weight="bold" fill="#1b5e20" text-anchor="middle">1.ª Bolsa</text> <text x="72" y="173" font-size="16" fill="#455a64" text-anchor="middle">2 O · 3 P</text> <!-- Ramas 1ª etapa --> <line x1="128" y1="140" x2="248" y2="76" stroke="#455a64" stroke-width="2" marker-end="url(#arrowP26_1)"></line> <text x="176" y="96" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">2/5</text> <line x1="128" y1="170" x2="248" y2="234" stroke="#455a64" stroke-width="2" marker-end="url(#arrowP26_1)"></line> <text x="176" y="226" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">3/5</text> <!-- Nodos intermedios --> <rect x="256" y="38" width="152" height="76" rx="8" fill="#ffffff" stroke="#66bb6a" stroke-width="2"></rect> <text x="332" y="68" font-size="16" font-weight="bold" fill="#1b5e20" text-anchor="middle">O₁ → 2.ª Bolsa</text> <text x="332" y="94" font-size="16" fill="#455a64" text-anchor="middle">7 O · 3 P</text> <rect x="256" y="196" width="152" height="76" rx="8" fill="#ffffff" stroke="#66bb6a" stroke-width="2"></rect> <text x="332" y="226" font-size="16" font-weight="bold" fill="#1b5e20" text-anchor="middle">P₁ → 2.ª Bolsa</text> <text x="332" y="252" font-size="16" fill="#455a64" text-anchor="middle">6 O · 4 P</text> <!-- Ramas 2ª etapa --> <line x1="408" y1="64" x2="522" y2="34" stroke="#2e7d32" stroke-width="2.2" marker-end="url(#arrowP26_1)"></line> <text x="458" y="40" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">7/10</text> <line x1="408" y1="88" x2="522" y2="118" stroke="#455a64" stroke-width="1.8" marker-end="url(#arrowP26_1)"></line> <text x="458" y="126" font-size="16" fill="#546e7a" text-anchor="middle">3/10</text> <line x1="408" y1="222" x2="522" y2="192" stroke="#d84315" stroke-width="2.4" marker-end="url(#arrowP26_1)"></line> <text x="458" y="198" font-size="16" font-weight="bold" fill="#d84315" text-anchor="middle">6/10</text> <line x1="408" y1="246" x2="522" y2="276" stroke="#455a64" stroke-width="1.8" marker-end="url(#arrowP26_1)"></line> <text x="458" y="284" font-size="16" fill="#546e7a" text-anchor="middle">4/10</text> <!-- Hojas finales --> <text x="532" y="39" font-size="16" font-weight="bold" fill="#2e7d32">O₂ (Oro)</text> <text x="532" y="123" font-size="16" fill="#546e7a">P₂ (Plata)</text> <text x="532" y="197" font-size="16" font-weight="bold" fill="#d84315">O₂ (Oro)</text> <text x="532" y="281" font-size="16" fill="#546e7a">P₂ (Plata)</text> </svg></div>
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;">a) Probabilidad de que la 2ª sea oro sabiendo que la 1ª fue plata: \(P(O_2 \mid P_1)\)</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;">Si la primera moneda extraída fue de plata, en la segunda bolsa hay \(6\) monedas de oro de un total de \(10\). Leyendo directamente la rama destacada del árbol:</p>
+<p style="text-align: center; margin-bottom: 0;">\[ P(O_2 \mid P_1) = \frac{6}{10} = \frac{3}{5} = 0{,}6 \]</p>
+</div>
+<div style="background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;"><strong>Conclusión apartado a):</strong> La probabilidad pedida es <strong>\(\boldsymbol{\dfrac{3}{5} = 0{,}6}\)</strong> (un \(60\%\)).</div>
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;">b) Probabilidad de que la 1.ª fuera plata sabiendo que la 2.ª es oro: \(P(P_1 \mid O_2)\)</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;"><strong>1. Calculamos \(\boldsymbol{P(O_2)}\) por el teorema de la probabilidad total</strong></p>
+<p style="text-align: center; margin-bottom: 0;">\[ P(O_2) = P(O_1) \cdot P(O_2 \mid O_1) + P(P_1) \cdot P(O_2 \mid P_1) = \frac{2}{5} \cdot \frac{7}{10} + \frac{3}{5} \cdot \frac{6}{10} = \frac{14}{50} + \frac{18}{50} = \frac{32}{50} = \frac{16}{25} = 0{,}64 \]</p>
+</div>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;"><strong>2. Aplicamos el teorema de Bayes</strong></p>
+<p style="text-align: center; margin-bottom: 0;">\[ P(P_1 \mid O_2) = \frac{P(P_1) \cdot P(O_2 \mid P_1)}{P(O_2)} = \frac{\dfrac{3}{5} \cdot \dfrac{6}{10}}{\dfrac{32}{50}} = \frac{18/50}{32/50} = \frac{18}{32} = \frac{9}{16} = 0{,}5625 \]</p>
+</div>
+<div style="background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;"><strong>Conclusión apartado b):</strong> La probabilidad pedida es <strong>\(\boldsymbol{\dfrac{9}{16} = 0{,}5625}\)</strong> (un \(56{,}25\%\)).</div>
+</div>
+<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href="{{context_path}}/content/resources/pdf/MII-T7-2026 1.pdf" title="MII-T7-2026 1.pdf" target="_blank" rel="noopener"><img src="{{context_path}}/content/resources/emestrada_corto.png" width="63" height="59" alt="" /></a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795519960963-ijla2zoe0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><div style=\"background-color: #f1f8f3; border-left: 5px solid #2e7d32; border-radius: 0 6px 6px 0; padding: 16px 20px; margin: 10px 0; line-height: 1.6; color: #222222;\">\n<p style=\"margin-top: 0;\">Disponemos de dos bolsas con monedas de oro y monedas de plata. En la primera hay \\(2\\) monedas de oro y \\(3\\) monedas de plata. En la segunda hay \\(6\\) monedas de oro y \\(3\\) de plata. Sin mirar, extraemos una moneda al azar de la primera bolsa y la depositamos en la segunda bolsa. Luego extraemos una moneda de la segunda bolsa.</p>\n<p style=\"margin-bottom: 6px;\"><strong>a)</strong> Calcula la probabilidad de que la segunda moneda sea de oro, sabiendo que la moneda que se extrajo de la primera bolsa era de plata.</p>\n<p style=\"margin-bottom: 0;\"><strong>b)</strong> Calcula la probabilidad de que la moneda que se extrajo de la primera bolsa fuera de plata, sabiendo que la segunda moneda es de oro.</p>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div style=\"line-height: 1.6; color: #333333;\">\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;\">Planteamiento y diagrama de árbol</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Definimos los sucesos para las dos extracciones: \\(O_1, P_1\\) (oro o plata en la 1.ª extracción) y \\(O_2, P_2\\) (oro o plata en la 2.ª extracción). Al pasar una moneda a la segunda bolsa, esta pasa de tener \\(9\\) monedas a tener <strong>\\(\\boldsymbol{10}\\) monedas</strong>:</p>\n<ul style=\"margin-bottom: 0;\">\n<li>Si la 1.ª moneda es <strong>oro</strong> (\\(O_1\\)), la 2.ª bolsa queda con \\(7\\) de oro y \\(3\\) de plata.</li>\n<li>Si la 1.ª moneda es <strong>plata</strong> (\\(P_1\\)), la 2.ª bolsa queda con \\(6\\) de oro y \\(4\\) de plata.</li>\n</ul>\n</div>\n<div style=\"text-align: center; margin: 16px 0;\"><svg viewbox=\"0 0 640 310\" style=\"max-width: 640px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;\"> <defs> <marker id=\"arrowP26_1\" viewbox=\"0 0 10 10\" refx=\"8\" refy=\"5\" markerwidth=\"6\" markerheight=\"6\" orient=\"auto-start-reverse\"> <path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#455a64\"></path> </marker> </defs> <!-- Nodo inicial --> <rect x=\"16\" y=\"117\" width=\"112\" height=\"76\" rx=\"8\" fill=\"#f1f8f3\" stroke=\"#2e7d32\" stroke-width=\"2\"></rect> <text x=\"72\" y=\"147\" font-size=\"16\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">1.ª Bolsa</text> <text x=\"72\" y=\"173\" font-size=\"16\" fill=\"#455a64\" text-anchor=\"middle\">2 O · 3 P</text> <!-- Ramas 1ª etapa --> <line x1=\"128\" y1=\"140\" x2=\"248\" y2=\"76\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"176\" y=\"96\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">2/5</text> <line x1=\"128\" y1=\"170\" x2=\"248\" y2=\"234\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"176\" y=\"226\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">3/5</text> <!-- Nodos intermedios --> <rect x=\"256\" y=\"38\" width=\"152\" height=\"76\" rx=\"8\" fill=\"#ffffff\" stroke=\"#66bb6a\" stroke-width=\"2\"></rect> <text x=\"332\" y=\"68\" font-size=\"16\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">O₁ → 2.ª Bolsa</text> <text x=\"332\" y=\"94\" font-size=\"16\" fill=\"#455a64\" text-anchor=\"middle\">7 O · 3 P</text> <rect x=\"256\" y=\"196\" width=\"152\" height=\"76\" rx=\"8\" fill=\"#ffffff\" stroke=\"#66bb6a\" stroke-width=\"2\"></rect> <text x=\"332\" y=\"226\" font-size=\"16\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">P₁ → 2.ª Bolsa</text> <text x=\"332\" y=\"252\" font-size=\"16\" fill=\"#455a64\" text-anchor=\"middle\">6 O · 4 P</text> <!-- Ramas 2ª etapa --> <line x1=\"408\" y1=\"64\" x2=\"522\" y2=\"34\" stroke=\"#2e7d32\" stroke-width=\"2.2\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"458\" y=\"40\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">7/10</text> <line x1=\"408\" y1=\"88\" x2=\"522\" y2=\"118\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"458\" y=\"126\" font-size=\"16\" fill=\"#546e7a\" text-anchor=\"middle\">3/10</text> <line x1=\"408\" y1=\"222\" x2=\"522\" y2=\"192\" stroke=\"#d84315\" stroke-width=\"2.4\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"458\" y=\"198\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\" text-anchor=\"middle\">6/10</text> <line x1=\"408\" y1=\"246\" x2=\"522\" y2=\"276\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"458\" y=\"284\" font-size=\"16\" fill=\"#546e7a\" text-anchor=\"middle\">4/10</text> <!-- Hojas finales --> <text x=\"532\" y=\"39\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\">O₂ (Oro)</text> <text x=\"532\" y=\"123\" font-size=\"16\" fill=\"#546e7a\">P₂ (Plata)</text> <text x=\"532\" y=\"197\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\">O₂ (Oro)</text> <text x=\"532\" y=\"281\" font-size=\"16\" fill=\"#546e7a\">P₂ (Plata)</text> </svg></div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">a) Probabilidad de que la 2ª sea oro sabiendo que la 1ª fue plata: \\(P(O_2 \\mid P_1)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Si la primera moneda extraída fue de plata, en la segunda bolsa hay \\(6\\) monedas de oro de un total de \\(10\\). Leyendo directamente la rama destacada del árbol:</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ P(O_2 \\mid P_1) = \\frac{6}{10} = \\frac{3}{5} = 0{,}6 \\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado a):</strong> La probabilidad pedida es <strong>\\(\\boldsymbol{\\dfrac{3}{5} = 0{,}6}\\)</strong> (un \\(60\\%\\)).</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">b) Probabilidad de que la 1.ª fuera plata sabiendo que la 2.ª es oro: \\(P(P_1 \\mid O_2)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\"><strong>1. Calculamos \\(\\boldsymbol{P(O_2)}\\) por el teorema de la probabilidad total</strong></p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ P(O_2) = P(O_1) \\cdot P(O_2 \\mid O_1) + P(P_1) \\cdot P(O_2 \\mid P_1) = \\frac{2}{5} \\cdot \\frac{7}{10} + \\frac{3}{5} \\cdot \\frac{6}{10} = \\frac{14}{50} + \\frac{18}{50} = \\frac{32}{50} = \\frac{16}{25} = 0{,}64 \\]</p>\n</div>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\"><strong>2. Aplicamos el teorema de Bayes</strong></p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ P(P_1 \\mid O_2) = \\frac{P(P_1) \\cdot P(O_2 \\mid P_1)}{P(O_2)} = \\frac{\\dfrac{3}{5} \\cdot \\dfrac{6}{10}}{\\dfrac{32}{50}} = \\frac{18/50}{32/50} = \\frac{18}{32} = \\frac{9}{16} = 0{,}5625 \\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado b):</strong> La probabilidad pedida es <strong>\\(\\boldsymbol{\\dfrac{9}{16} = 0{,}5625}\\)</strong> (un \\(56{,}25\\%\\)).</div>\n</div>\n<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href=\"{{context_path}}/content/resources/pdf/MII-T7-2026 1.pdf\" title=\"MII-T7-2026 1.pdf\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/emestrada_corto.png\" width=\"63\" height=\"59\" alt=\"\" /></a></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<div style=\"line-height: 1.6; color: #333333;\">\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;\">Planteamiento y diagrama de árbol</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Definimos los sucesos para las dos extracciones: \\(O_1, P_1\\) (oro o plata en la 1.ª extracción) y \\(O_2, P_2\\) (oro o plata en la 2.ª extracción). Al pasar una moneda a la segunda bolsa, esta pasa de tener \\(9\\) monedas a tener <strong>\\(\\boldsymbol{10}\\) monedas</strong>:</p>\n<ul style=\"margin-bottom: 0;\">\n<li>Si la 1.ª moneda es <strong>oro</strong> (\\(O_1\\)), la 2.ª bolsa queda con \\(7\\) de oro y \\(3\\) de plata.</li>\n<li>Si la 1.ª moneda es <strong>plata</strong> (\\(P_1\\)), la 2.ª bolsa queda con \\(6\\) de oro y \\(4\\) de plata.</li>\n</ul>\n</div>\n<div style=\"text-align: center; margin: 16px 0;\"><svg viewbox=\"0 0 640 310\" style=\"max-width: 640px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;\"> <defs> <marker id=\"arrowP26_1\" viewbox=\"0 0 10 10\" refx=\"8\" refy=\"5\" markerwidth=\"6\" markerheight=\"6\" orient=\"auto-start-reverse\"> <path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#455a64\"></path> </marker> </defs> <!-- Nodo inicial --> <rect x=\"16\" y=\"117\" width=\"112\" height=\"76\" rx=\"8\" fill=\"#f1f8f3\" stroke=\"#2e7d32\" stroke-width=\"2\"></rect> <text x=\"72\" y=\"147\" font-size=\"16\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">1.ª Bolsa</text> <text x=\"72\" y=\"173\" font-size=\"16\" fill=\"#455a64\" text-anchor=\"middle\">2 O · 3 P</text> <!-- Ramas 1ª etapa --> <line x1=\"128\" y1=\"140\" x2=\"248\" y2=\"76\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"176\" y=\"96\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">2/5</text> <line x1=\"128\" y1=\"170\" x2=\"248\" y2=\"234\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"176\" y=\"226\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">3/5</text> <!-- Nodos intermedios --> <rect x=\"256\" y=\"38\" width=\"152\" height=\"76\" rx=\"8\" fill=\"#ffffff\" stroke=\"#66bb6a\" stroke-width=\"2\"></rect> <text x=\"332\" y=\"68\" font-size=\"16\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">O₁ → 2.ª Bolsa</text> <text x=\"332\" y=\"94\" font-size=\"16\" fill=\"#455a64\" text-anchor=\"middle\">7 O · 3 P</text> <rect x=\"256\" y=\"196\" width=\"152\" height=\"76\" rx=\"8\" fill=\"#ffffff\" stroke=\"#66bb6a\" stroke-width=\"2\"></rect> <text x=\"332\" y=\"226\" font-size=\"16\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">P₁ → 2.ª Bolsa</text> <text x=\"332\" y=\"252\" font-size=\"16\" fill=\"#455a64\" text-anchor=\"middle\">6 O · 4 P</text> <!-- Ramas 2ª etapa --> <line x1=\"408\" y1=\"64\" x2=\"522\" y2=\"34\" stroke=\"#2e7d32\" stroke-width=\"2.2\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"458\" y=\"40\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">7/10</text> <line x1=\"408\" y1=\"88\" x2=\"522\" y2=\"118\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"458\" y=\"126\" font-size=\"16\" fill=\"#546e7a\" text-anchor=\"middle\">3/10</text> <line x1=\"408\" y1=\"222\" x2=\"522\" y2=\"192\" stroke=\"#d84315\" stroke-width=\"2.4\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"458\" y=\"198\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\" text-anchor=\"middle\">6/10</text> <line x1=\"408\" y1=\"246\" x2=\"522\" y2=\"276\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_1)\"></line> <text x=\"458\" y=\"284\" font-size=\"16\" fill=\"#546e7a\" text-anchor=\"middle\">4/10</text> <!-- Hojas finales --> <text x=\"532\" y=\"39\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\">O₂ (Oro)</text> <text x=\"532\" y=\"123\" font-size=\"16\" fill=\"#546e7a\">P₂ (Plata)</text> <text x=\"532\" y=\"197\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\">O₂ (Oro)</text> <text x=\"532\" y=\"281\" font-size=\"16\" fill=\"#546e7a\">P₂ (Plata)</text> </svg></div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">a) Probabilidad de que la 2ª sea oro sabiendo que la 1ª fue plata: \\(P(O_2 \\mid P_1)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Si la primera moneda extraída fue de plata, en la segunda bolsa hay \\(6\\) monedas de oro de un total de \\(10\\). Leyendo directamente la rama destacada del árbol:</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ P(O_2 \\mid P_1) = \\frac{6}{10} = \\frac{3}{5} = 0{,}6 \\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado a):</strong> La probabilidad pedida es <strong>\\(\\boldsymbol{\\dfrac{3}{5} = 0{,}6}\\)</strong> (un \\(60\\%\\)).</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">b) Probabilidad de que la 1.ª fuera plata sabiendo que la 2.ª es oro: \\(P(P_1 \\mid O_2)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\"><strong>1. Calculamos \\(\\boldsymbol{P(O_2)}\\) por el teorema de la probabilidad total</strong></p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ P(O_2) = P(O_1) \\cdot P(O_2 \\mid O_1) + P(P_1) \\cdot P(O_2 \\mid P_1) = \\frac{2}{5} \\cdot \\frac{7}{10} + \\frac{3}{5} \\cdot \\frac{6}{10} = \\frac{14}{50} + \\frac{18}{50} = \\frac{32}{50} = \\frac{16}{25} = 0{,}64 \\]</p>\n</div>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\"><strong>2. Aplicamos el teorema de Bayes</strong></p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ P(P_1 \\mid O_2) = \\frac{P(P_1) \\cdot P(O_2 \\mid P_1)}{P(O_2)} = \\frac{\\dfrac{3}{5} \\cdot \\dfrac{6}{10}}{\\dfrac{32}{50}} = \\frac{18/50}{32/50} = \\frac{18}{32} = \\frac{9}{16} = 0{,}5625 \\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado b):</strong> La probabilidad pedida es <strong>\\(\\boldsymbol{\\dfrac{9}{16} = 0{,}5625}\\)</strong> (un \\(56{,}25\\%\\)).</div>\n</div>\n<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href=\"{{context_path}}/content/resources/pdf/MII-T7-2026 1.pdf\" title=\"MII-T7-2026 1.pdf\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/emestrada_corto.png\" width=\"63\" height=\"59\" alt=\"\" /></a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwum82e0-6asc5yk16</odePageId>
+      <odeBlockId>block-mwum9nyi-cfkbt8zkr</odeBlockId>
+      <blockName>Julio. Ejercicio 4.2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value>ejercicio-custom-verde</value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwum82e0-6asc5yk16</odePageId>
+          <odeBlockId>block-mwum9nyi-cfkbt8zkr</odeBlockId>
+          <odeIdeviceId>idevice-1795520032649-yjxua6bd0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><div style="background-color: #f1f8f3; border-left: 5px solid #2e7d32; border-radius: 0 6px 6px 0; padding: 16px 20px; margin: 10px 0; line-height: 1.6; color: #222222;">
+<p style="margin-top: 0;">Tres máquinas \(A\), \(B\) y \(C\), producen el \(45\%\), \(30\%\) y \(25\%\), respectivamente, del total de los coches que se producen en una fábrica. Los porcentajes de producción defectuosa de estas máquinas son del \(3\%\), \(4\%\) y \(5\%\), respectivamente.</p>
+<p style="margin-bottom: 6px;"><strong>a)</strong> Seleccionamos un coche al azar. Calcula la probabilidad de que sea defectuoso.</p>
+<p style="margin-bottom: 0;"><strong>b)</strong> Tomamos, al azar, un coche y resulta ser defectuoso. ¿Qué máquina tiene la mayor probabilidad de haber producido ese coche?</p>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div style="line-height: 1.6; color: #333333;">
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;">Planteamiento y diagrama de árbol</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0; margin-bottom: 0;">Sean los sucesos \(A, B, C\) («el coche ha sido producido por la máquina \(A\), \(B\) o \(C\)») y \(D\) («el coche es defectuoso»). Como \(A, B\) y \(C\) forman un sistema completo de sucesos, organizamos los datos en un diagrama de árbol:</p>
+</div>
+<div style="text-align: center; margin: 16px 0;"><svg viewbox="0 0 640 370" style="max-width: 640px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;"> <defs> <marker id="arrowP26_2" viewbox="0 0 10 10" refx="8" refy="5" markerwidth="6" markerheight="6" orient="auto-start-reverse"> <path d="M 0 1 L 10 5 L 0 9 z" fill="#455a64"></path> </marker> </defs> <!-- Nodo raíz --> <circle cx="48" cy="185" r="28" fill="#f1f8f3" stroke="#2e7d32" stroke-width="2"></circle> <text x="48" y="191" font-size="16" font-weight="bold" fill="#1b5e20" text-anchor="middle">Total</text> <!-- Ramas 1ª etapa --> <line x1="74" y1="173" x2="205" y2="76" stroke="#455a64" stroke-width="2" marker-end="url(#arrowP26_2)"></line> <text x="128" y="108" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">0,45</text> <line x1="76" y1="185" x2="205" y2="185" stroke="#455a64" stroke-width="2" marker-end="url(#arrowP26_2)"></line> <text x="140" y="175" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">0,30</text> <line x1="74" y1="197" x2="205" y2="294" stroke="#455a64" stroke-width="2" marker-end="url(#arrowP26_2)"></line> <text x="128" y="274" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">0,25</text> <!-- Nodos A, B, C --> <circle cx="230" cy="65" r="22" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"></circle> <text x="230" y="71" font-size="17" font-weight="bold" fill="#1b5e20" text-anchor="middle">A</text> <circle cx="230" cy="185" r="22" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"></circle> <text x="230" y="191" font-size="17" font-weight="bold" fill="#1b5e20" text-anchor="middle">B</text> <circle cx="230" cy="305" r="22" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"></circle> <text x="230" y="311" font-size="17" font-weight="bold" fill="#1b5e20" text-anchor="middle">C</text> <!-- Ramas 2ª etapa --> <!-- Desde A --> <line x1="251" y1="58" x2="430" y2="32" stroke="#d84315" stroke-width="2.2" marker-end="url(#arrowP26_2)"></line> <text x="338" y="34" font-size="16" font-weight="bold" fill="#d84315" text-anchor="middle">0,03</text> <line x1="251" y1="72" x2="430" y2="98" stroke="#455a64" stroke-width="1.8" marker-end="url(#arrowP26_2)"></line> <text x="338" y="105" font-size="16" fill="#607d8b" text-anchor="middle">0,97</text> <!-- Desde B --> <line x1="251" y1="178" x2="430" y2="152" stroke="#d84315" stroke-width="2.2" marker-end="url(#arrowP26_2)"></line> <text x="338" y="154" font-size="16" font-weight="bold" fill="#d84315" text-anchor="middle">0,04</text> <line x1="251" y1="192" x2="430" y2="218" stroke="#455a64" stroke-width="1.8" marker-end="url(#arrowP26_2)"></line> <text x="338" y="225" font-size="16" fill="#607d8b" text-anchor="middle">0,96</text> <!-- Desde C --> <line x1="251" y1="298" x2="430" y2="272" stroke="#d84315" stroke-width="2.2" marker-end="url(#arrowP26_2)"></line> <text x="338" y="274" font-size="16" font-weight="bold" fill="#d84315" text-anchor="middle">0,05</text> <line x1="251" y1="312" x2="430" y2="338" stroke="#455a64" stroke-width="1.8" marker-end="url(#arrowP26_2)"></line> <text x="338" y="345" font-size="16" fill="#607d8b" text-anchor="middle">0,95</text> <!-- Hojas finales --> <text x="442" y="38" font-size="16" font-weight="bold" fill="#d84315">D (Defectuoso)</text> <text x="442" y="104" font-size="16" fill="#607d8b">No defectuoso</text> <text x="442" y="158" font-size="16" font-weight="bold" fill="#d84315">D (Defectuoso)</text> <text x="442" y="224" font-size="16" fill="#607d8b">No defectuoso</text> <text x="442" y="278" font-size="16" font-weight="bold" fill="#d84315">D (Defectuoso)</text> <text x="442" y="344" font-size="16" fill="#607d8b">No defectuoso</text> </svg></div>
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;">a) Probabilidad de que un coche elegido al azar sea defectuoso: \(P(D)\)</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;">Aplicamos el <strong>teorema de la probabilidad total</strong> sumando los tres caminos que terminan en \(D\):</p>
+<p style="text-align: center;">\[ P(D) = P(A)\cdot P(D \mid A) + P(B)\cdot P(D \mid B) + P(C)\cdot P(D \mid C) \]</p>
+<p style="text-align: center; margin-bottom: 0;">\[ P(D) = 0{,}45 \cdot 0{,}03 + 0{,}30 \cdot 0{,}04 + 0{,}25 \cdot 0{,}05 = 0{,}0135 + 0{,}0120 + 0{,}0125 = 0{,}038 \]</p>
+</div>
+<div style="background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;"><strong>Conclusión apartado a):</strong> La probabilidad de que el coche sea defectuoso es <strong>\(\boldsymbol{0{,}038}\)</strong> (un \(3{,}8\%\)).</div>
+<h4 style="color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;">b) Máquina con mayor probabilidad de haber producido un coche defectuoso</h4>
+<div style="border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;">
+<p style="margin-top: 0;">Calculamos las tres probabilidades condicionadas mediante el <strong>teorema de Bayes</strong>:</p>
+<table style="width: 100%; max-width: 470px; margin: 10px auto 6px auto; border-collapse: collapse; text-align: center; font-size: 0.95em;">
+<thead>
+<tr style="background-color: #e8f5e9; color: #1b5e20;">
+<th style="border: 1px solid #c8e6c9; padding: 8px;">Máquina</th>
+<th style="border: 1px solid #c8e6c9; padding: 8px;">Cálculo por Bayes</th>
+<th style="border: 1px solid #c8e6c9; padding: 8px;">Probabilidad</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color: #f1f8f3;">
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;">Máquina \(\boldsymbol{A}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">\(P(A \mid D) = \dfrac{0{,}0135}{0{,}038} = \dfrac{27}{76}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;">\(\boldsymbol{\approx 0{,}3553}\) \[\boldsymbol{(35{,}53\%)}\]</td>
+</tr>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold;">Máquina \(\boldsymbol{B}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">\(P(B \mid D) = \dfrac{0{,}0120}{0{,}038} = \dfrac{6}{19}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">\(\approx 0{,}3158\) \[(31{,}58\%)\]</td>
+</tr>
+<tr>
+<td style="border: 1px solid #c8e6c9; padding: 8px; font-weight: bold;">Máquina \(\boldsymbol{C}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">\(P(C \mid D) = \dfrac{0{,}0125}{0{,}038} = \dfrac{25}{76}\)</td>
+<td style="border: 1px solid #c8e6c9; padding: 8px;">\(\approx 0{,}3289\) \[(32{,}89\%)\]</td>
+</tr>
+</tbody>
+</table>
+<p style="margin-bottom: 0; font-size: 0.94em; color: #555555;"><em>Observación:</em> como las tres fracciones tienen el mismo denominador \(P(D) = 0{,}038\), basta comprobar que el numerador mayor es \(0{,}0135\) (correspondiente a \(A\)), y además \(0{,}3553 + 0{,}3158 + 0{,}3289 = 1\).</p>
+</div>
+<div style="background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;"><strong>Conclusión apartado b):</strong> La <strong>máquina \(\boldsymbol{A}\)</strong> es la que tiene mayor probabilidad de haber producido ese coche (\(\approx 35{,}53\%\)).</div>
+</div>
+<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href="{{context_path}}/content/resources/pdf/MII-T7-2026 2.pdf" title="MII-T7-2026 2.pdf" target="_blank" rel="noopener"><img src="{{context_path}}/content/resources/emestrada_corto.png" width="63" height="59" alt="" /></a></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795520032649-yjxua6bd0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><div style=\"background-color: #f1f8f3; border-left: 5px solid #2e7d32; border-radius: 0 6px 6px 0; padding: 16px 20px; margin: 10px 0; line-height: 1.6; color: #222222;\">\n<p style=\"margin-top: 0;\">Tres máquinas \\(A\\), \\(B\\) y \\(C\\), producen el \\(45\\%\\), \\(30\\%\\) y \\(25\\%\\), respectivamente, del total de los coches que se producen en una fábrica. Los porcentajes de producción defectuosa de estas máquinas son del \\(3\\%\\), \\(4\\%\\) y \\(5\\%\\), respectivamente.</p>\n<p style=\"margin-bottom: 6px;\"><strong>a)</strong> Seleccionamos un coche al azar. Calcula la probabilidad de que sea defectuoso.</p>\n<p style=\"margin-bottom: 0;\"><strong>b)</strong> Tomamos, al azar, un coche y resulta ser defectuoso. ¿Qué máquina tiene la mayor probabilidad de haber producido ese coche?</p>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div style=\"line-height: 1.6; color: #333333;\">\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;\">Planteamiento y diagrama de árbol</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0; margin-bottom: 0;\">Sean los sucesos \\(A, B, C\\) («el coche ha sido producido por la máquina \\(A\\), \\(B\\) o \\(C\\)») y \\(D\\) («el coche es defectuoso»). Como \\(A, B\\) y \\(C\\) forman un sistema completo de sucesos, organizamos los datos en un diagrama de árbol:</p>\n</div>\n<div style=\"text-align: center; margin: 16px 0;\"><svg viewbox=\"0 0 640 370\" style=\"max-width: 640px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;\"> <defs> <marker id=\"arrowP26_2\" viewbox=\"0 0 10 10\" refx=\"8\" refy=\"5\" markerwidth=\"6\" markerheight=\"6\" orient=\"auto-start-reverse\"> <path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#455a64\"></path> </marker> </defs> <!-- Nodo raíz --> <circle cx=\"48\" cy=\"185\" r=\"28\" fill=\"#f1f8f3\" stroke=\"#2e7d32\" stroke-width=\"2\"></circle> <text x=\"48\" y=\"191\" font-size=\"16\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">Total</text> <!-- Ramas 1ª etapa --> <line x1=\"74\" y1=\"173\" x2=\"205\" y2=\"76\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"128\" y=\"108\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">0,45</text> <line x1=\"76\" y1=\"185\" x2=\"205\" y2=\"185\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"140\" y=\"175\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">0,30</text> <line x1=\"74\" y1=\"197\" x2=\"205\" y2=\"294\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"128\" y=\"274\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">0,25</text> <!-- Nodos A, B, C --> <circle cx=\"230\" cy=\"65\" r=\"22\" fill=\"#e8f5e9\" stroke=\"#2e7d32\" stroke-width=\"2\"></circle> <text x=\"230\" y=\"71\" font-size=\"17\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">A</text> <circle cx=\"230\" cy=\"185\" r=\"22\" fill=\"#e8f5e9\" stroke=\"#2e7d32\" stroke-width=\"2\"></circle> <text x=\"230\" y=\"191\" font-size=\"17\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">B</text> <circle cx=\"230\" cy=\"305\" r=\"22\" fill=\"#e8f5e9\" stroke=\"#2e7d32\" stroke-width=\"2\"></circle> <text x=\"230\" y=\"311\" font-size=\"17\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">C</text> <!-- Ramas 2ª etapa --> <!-- Desde A --> <line x1=\"251\" y1=\"58\" x2=\"430\" y2=\"32\" stroke=\"#d84315\" stroke-width=\"2.2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"34\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\" text-anchor=\"middle\">0,03</text> <line x1=\"251\" y1=\"72\" x2=\"430\" y2=\"98\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"105\" font-size=\"16\" fill=\"#607d8b\" text-anchor=\"middle\">0,97</text> <!-- Desde B --> <line x1=\"251\" y1=\"178\" x2=\"430\" y2=\"152\" stroke=\"#d84315\" stroke-width=\"2.2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"154\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\" text-anchor=\"middle\">0,04</text> <line x1=\"251\" y1=\"192\" x2=\"430\" y2=\"218\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"225\" font-size=\"16\" fill=\"#607d8b\" text-anchor=\"middle\">0,96</text> <!-- Desde C --> <line x1=\"251\" y1=\"298\" x2=\"430\" y2=\"272\" stroke=\"#d84315\" stroke-width=\"2.2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"274\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\" text-anchor=\"middle\">0,05</text> <line x1=\"251\" y1=\"312\" x2=\"430\" y2=\"338\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"345\" font-size=\"16\" fill=\"#607d8b\" text-anchor=\"middle\">0,95</text> <!-- Hojas finales --> <text x=\"442\" y=\"38\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\">D (Defectuoso)</text> <text x=\"442\" y=\"104\" font-size=\"16\" fill=\"#607d8b\">No defectuoso</text> <text x=\"442\" y=\"158\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\">D (Defectuoso)</text> <text x=\"442\" y=\"224\" font-size=\"16\" fill=\"#607d8b\">No defectuoso</text> <text x=\"442\" y=\"278\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\">D (Defectuoso)</text> <text x=\"442\" y=\"344\" font-size=\"16\" fill=\"#607d8b\">No defectuoso</text> </svg></div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">a) Probabilidad de que un coche elegido al azar sea defectuoso: \\(P(D)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Aplicamos el <strong>teorema de la probabilidad total</strong> sumando los tres caminos que terminan en \\(D\\):</p>\n<p style=\"text-align: center;\">\\[ P(D) = P(A)\\cdot P(D \\mid A) + P(B)\\cdot P(D \\mid B) + P(C)\\cdot P(D \\mid C) \\]</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ P(D) = 0{,}45 \\cdot 0{,}03 + 0{,}30 \\cdot 0{,}04 + 0{,}25 \\cdot 0{,}05 = 0{,}0135 + 0{,}0120 + 0{,}0125 = 0{,}038 \\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado a):</strong> La probabilidad de que el coche sea defectuoso es <strong>\\(\\boldsymbol{0{,}038}\\)</strong> (un \\(3{,}8\\%\\)).</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">b) Máquina con mayor probabilidad de haber producido un coche defectuoso</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Calculamos las tres probabilidades condicionadas mediante el <strong>teorema de Bayes</strong>:</p>\n<table style=\"width: 100%; max-width: 470px; margin: 10px auto 6px auto; border-collapse: collapse; text-align: center; font-size: 0.95em;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Máquina</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Cálculo por Bayes</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Probabilidad</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #f1f8f3;\">\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">Máquina \\(\\boldsymbol{A}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(P(A \\mid D) = \\dfrac{0{,}0135}{0{,}038} = \\dfrac{27}{76}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;\">\\(\\boldsymbol{\\approx 0{,}3553}\\) \\[\\boldsymbol{(35{,}53\\%)}\\]</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold;\">Máquina \\(\\boldsymbol{B}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(P(B \\mid D) = \\dfrac{0{,}0120}{0{,}038} = \\dfrac{6}{19}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(\\approx 0{,}3158\\) \\[(31{,}58\\%)\\]</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold;\">Máquina \\(\\boldsymbol{C}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(P(C \\mid D) = \\dfrac{0{,}0125}{0{,}038} = \\dfrac{25}{76}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(\\approx 0{,}3289\\) \\[(32{,}89\\%)\\]</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-bottom: 0; font-size: 0.94em; color: #555555;\"><em>Observación:</em> como las tres fracciones tienen el mismo denominador \\(P(D) = 0{,}038\\), basta comprobar que el numerador mayor es \\(0{,}0135\\) (correspondiente a \\(A\\)), y además \\(0{,}3553 + 0{,}3158 + 0{,}3289 = 1\\).</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado b):</strong> La <strong>máquina \\(\\boldsymbol{A}\\)</strong> es la que tiene mayor probabilidad de haber producido ese coche (\\(\\approx 35{,}53\\%\\)).</div>\n</div>\n<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href=\"{{context_path}}/content/resources/pdf/MII-T7-2026 2.pdf\" title=\"MII-T7-2026 2.pdf\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/emestrada_corto.png\" width=\"63\" height=\"59\" alt=\"\" /></a></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<div style=\"line-height: 1.6; color: #333333;\">\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 10px; margin-bottom: 12px; font-size: 1.1em;\">Planteamiento y diagrama de árbol</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0; margin-bottom: 0;\">Sean los sucesos \\(A, B, C\\) («el coche ha sido producido por la máquina \\(A\\), \\(B\\) o \\(C\\)») y \\(D\\) («el coche es defectuoso»). Como \\(A, B\\) y \\(C\\) forman un sistema completo de sucesos, organizamos los datos en un diagrama de árbol:</p>\n</div>\n<div style=\"text-align: center; margin: 16px 0;\"><svg viewbox=\"0 0 640 370\" style=\"max-width: 640px; width: 100%; height: auto; font-family: sans-serif; background: #ffffff; border: 1px solid #e0e0e0; border-radius: 6px;\"> <defs> <marker id=\"arrowP26_2\" viewbox=\"0 0 10 10\" refx=\"8\" refy=\"5\" markerwidth=\"6\" markerheight=\"6\" orient=\"auto-start-reverse\"> <path d=\"M 0 1 L 10 5 L 0 9 z\" fill=\"#455a64\"></path> </marker> </defs> <!-- Nodo raíz --> <circle cx=\"48\" cy=\"185\" r=\"28\" fill=\"#f1f8f3\" stroke=\"#2e7d32\" stroke-width=\"2\"></circle> <text x=\"48\" y=\"191\" font-size=\"16\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">Total</text> <!-- Ramas 1ª etapa --> <line x1=\"74\" y1=\"173\" x2=\"205\" y2=\"76\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"128\" y=\"108\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">0,45</text> <line x1=\"76\" y1=\"185\" x2=\"205\" y2=\"185\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"140\" y=\"175\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">0,30</text> <line x1=\"74\" y1=\"197\" x2=\"205\" y2=\"294\" stroke=\"#455a64\" stroke-width=\"2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"128\" y=\"274\" font-size=\"16\" font-weight=\"bold\" fill=\"#2e7d32\" text-anchor=\"middle\">0,25</text> <!-- Nodos A, B, C --> <circle cx=\"230\" cy=\"65\" r=\"22\" fill=\"#e8f5e9\" stroke=\"#2e7d32\" stroke-width=\"2\"></circle> <text x=\"230\" y=\"71\" font-size=\"17\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">A</text> <circle cx=\"230\" cy=\"185\" r=\"22\" fill=\"#e8f5e9\" stroke=\"#2e7d32\" stroke-width=\"2\"></circle> <text x=\"230\" y=\"191\" font-size=\"17\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">B</text> <circle cx=\"230\" cy=\"305\" r=\"22\" fill=\"#e8f5e9\" stroke=\"#2e7d32\" stroke-width=\"2\"></circle> <text x=\"230\" y=\"311\" font-size=\"17\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">C</text> <!-- Ramas 2ª etapa --> <!-- Desde A --> <line x1=\"251\" y1=\"58\" x2=\"430\" y2=\"32\" stroke=\"#d84315\" stroke-width=\"2.2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"34\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\" text-anchor=\"middle\">0,03</text> <line x1=\"251\" y1=\"72\" x2=\"430\" y2=\"98\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"105\" font-size=\"16\" fill=\"#607d8b\" text-anchor=\"middle\">0,97</text> <!-- Desde B --> <line x1=\"251\" y1=\"178\" x2=\"430\" y2=\"152\" stroke=\"#d84315\" stroke-width=\"2.2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"154\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\" text-anchor=\"middle\">0,04</text> <line x1=\"251\" y1=\"192\" x2=\"430\" y2=\"218\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"225\" font-size=\"16\" fill=\"#607d8b\" text-anchor=\"middle\">0,96</text> <!-- Desde C --> <line x1=\"251\" y1=\"298\" x2=\"430\" y2=\"272\" stroke=\"#d84315\" stroke-width=\"2.2\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"274\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\" text-anchor=\"middle\">0,05</text> <line x1=\"251\" y1=\"312\" x2=\"430\" y2=\"338\" stroke=\"#455a64\" stroke-width=\"1.8\" marker-end=\"url(#arrowP26_2)\"></line> <text x=\"338\" y=\"345\" font-size=\"16\" fill=\"#607d8b\" text-anchor=\"middle\">0,95</text> <!-- Hojas finales --> <text x=\"442\" y=\"38\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\">D (Defectuoso)</text> <text x=\"442\" y=\"104\" font-size=\"16\" fill=\"#607d8b\">No defectuoso</text> <text x=\"442\" y=\"158\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\">D (Defectuoso)</text> <text x=\"442\" y=\"224\" font-size=\"16\" fill=\"#607d8b\">No defectuoso</text> <text x=\"442\" y=\"278\" font-size=\"16\" font-weight=\"bold\" fill=\"#d84315\">D (Defectuoso)</text> <text x=\"442\" y=\"344\" font-size=\"16\" fill=\"#607d8b\">No defectuoso</text> </svg></div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">a) Probabilidad de que un coche elegido al azar sea defectuoso: \\(P(D)\\)</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Aplicamos el <strong>teorema de la probabilidad total</strong> sumando los tres caminos que terminan en \\(D\\):</p>\n<p style=\"text-align: center;\">\\[ P(D) = P(A)\\cdot P(D \\mid A) + P(B)\\cdot P(D \\mid B) + P(C)\\cdot P(D \\mid C) \\]</p>\n<p style=\"text-align: center; margin-bottom: 0;\">\\[ P(D) = 0{,}45 \\cdot 0{,}03 + 0{,}30 \\cdot 0{,}04 + 0{,}25 \\cdot 0{,}05 = 0{,}0135 + 0{,}0120 + 0{,}0125 = 0{,}038 \\]</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 24px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado a):</strong> La probabilidad de que el coche sea defectuoso es <strong>\\(\\boldsymbol{0{,}038}\\)</strong> (un \\(3{,}8\\%\\)).</div>\n<h4 style=\"color: #2e7d32; border-bottom: 1px solid #c8e6c9; padding-bottom: 6px; margin-top: 20px; margin-bottom: 12px; font-size: 1.1em;\">b) Máquina con mayor probabilidad de haber producido un coche defectuoso</h4>\n<div style=\"border-left: 3px solid #66bb6a; background-color: #ffffff; padding: 10px 16px; margin: 12px 0;\">\n<p style=\"margin-top: 0;\">Calculamos las tres probabilidades condicionadas mediante el <strong>teorema de Bayes</strong>:</p>\n<table style=\"width: 100%; max-width: 470px; margin: 10px auto 6px auto; border-collapse: collapse; text-align: center; font-size: 0.95em;\">\n<thead>\n<tr style=\"background-color: #e8f5e9; color: #1b5e20;\">\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Máquina</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Cálculo por Bayes</th>\n<th style=\"border: 1px solid #c8e6c9; padding: 8px;\">Probabilidad</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #f1f8f3;\">\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #1b5e20;\">Máquina \\(\\boldsymbol{A}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(P(A \\mid D) = \\dfrac{0{,}0135}{0{,}038} = \\dfrac{27}{76}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold; color: #2e7d32;\">\\(\\boldsymbol{\\approx 0{,}3553}\\) \\[\\boldsymbol{(35{,}53\\%)}\\]</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold;\">Máquina \\(\\boldsymbol{B}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(P(B \\mid D) = \\dfrac{0{,}0120}{0{,}038} = \\dfrac{6}{19}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(\\approx 0{,}3158\\) \\[(31{,}58\\%)\\]</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px; font-weight: bold;\">Máquina \\(\\boldsymbol{C}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(P(C \\mid D) = \\dfrac{0{,}0125}{0{,}038} = \\dfrac{25}{76}\\)</td>\n<td style=\"border: 1px solid #c8e6c9; padding: 8px;\">\\(\\approx 0{,}3289\\) \\[(32{,}89\\%)\\]</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-bottom: 0; font-size: 0.94em; color: #555555;\"><em>Observación:</em> como las tres fracciones tienen el mismo denominador \\(P(D) = 0{,}038\\), basta comprobar que el numerador mayor es \\(0{,}0135\\) (correspondiente a \\(A\\)), y además \\(0{,}3553 + 0{,}3158 + 0{,}3289 = 1\\).</p>\n</div>\n<div style=\"background-color: #f1f8f3; border: 1px solid #81c784; border-radius: 6px; padding: 12px 16px; margin: 16px 0 10px 0; text-align: center; color: #1b5e20;\"><strong>Conclusión apartado b):</strong> La <strong>máquina \\(\\boldsymbol{A}\\)</strong> es la que tiene mayor probabilidad de haber producido ese coche (\\(\\approx 35{,}53\\%\\)).</div>\n</div>\n<p>Puedes ver la solución de emestrada pulsando en la imagen: <a href=\"{{context_path}}/content/resources/pdf/MII-T7-2026 2.pdf\" title=\"MII-T7-2026 2.pdf\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/emestrada_corto.png\" width=\"63\" height=\"59\" alt=\"\" /></a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
